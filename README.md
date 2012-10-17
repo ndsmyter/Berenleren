@@ -1,6 +1,7 @@
 Berenleren
 ==========
-"Berenleren" is an application made by Wouter Devinck, Tom Neutens, Alexander Dooms and myself on the hackaton AppsForFlanders 2012
+"Berenleren" is an application made by Wouter Devinck, Tom Neutens, Alexander Dooms and myself on the hackaton AppsForFlanders 2012.
+Keep in mind that the application was built in a couple of hours and is buggy at best (and ugly at worst).
 
 Working version
 ---------------
